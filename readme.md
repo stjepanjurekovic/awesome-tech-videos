@@ -81,7 +81,7 @@ really know what they are doing :)
 - [Functional Programming is Terrible](https://www.youtube.com/watch?v=hzf3hTUKk8U) By Runar Bjarnson
 - [Distributed Programming in Haskell](https://www.youtube.com/watch?v=qlnU73a3Cw0) By Mathieu Boespflug
 - [Coding for Types: The Universe Patern in Idris](https://www.youtube.com/watch?v=AWeT_G04a0A) By David Christiansen
-- [https://www.youtube.com/watch?v=7Zlp9rKHGD4](https://www.youtube.com/watch?v=7Zlp9rKHGD4) By Robert C. Martin
+- [Functional Programming; What? Why? When?](https://www.youtube.com/watch?v=7Zlp9rKHGD4) By Robert C. Martin
 - [Learn Functional Programming with PureScript](https://www.youtube.com/watch?v=LqYfdmb0eUU) By John A. De Goes
 
 ### Talks on Papers
