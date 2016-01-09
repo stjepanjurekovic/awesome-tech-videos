@@ -123,7 +123,6 @@ really know what they are doing :)
 - [Clean Architecture and Design](https://www.youtube.com/watch?v=asLUTiJJqdE) By Robert C. Martin
 - [Concurrency Is Not Parallelism](https://www.youtube.com/watch?v=cN_DpYBzKso) By Rob Pike
 - [Microservices Anti-Patterns](https://www.youtube.com/watch?v=I56HzTKvZKc) By Tammer Saleh
-- [How GitHub Uses GitHub to Build GitHub](https://www.youtube.com/watch?v=qyz3jkOBbQY) By Zach Holman
 - [Facebook and memcached](https://www.youtube.com/watch?v=UH7wkvcf0ys) By Mark Zuckerberg
 - [Operations on Twitter: Scaling Beyong 100 Million Users](https://www.youtube.com/watch?v=z8LU0Cj6BOU) By John Adams
 - [An overview of HTTP/2](//www.youtube.com/watch?v=-yxQIRl6Qic) By Daniel Sommermann
@@ -155,7 +154,8 @@ really know what they are doing :)
 
 ### Company Culture
 
-- [unSEXY Conf 2013: Zach Holman, Github](https://www.youtube.com/watch?v=vCSNME4voRU)
+- [unSEXY Conf 2013: Zach Holman, Github](https://www.youtube.com/watch?v=vCSNME4voRU) By Zach Holman
+- [How GitHub Uses GitHub to Build GitHub](https://www.youtube.com/watch?v=qyz3jkOBbQY) By Zach Holman
 
 ### License
 
