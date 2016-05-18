@@ -106,6 +106,7 @@ really know what they are doing :)
 
 - [Introduction to NoSQL](https://www.youtube.com/watch?v=qI_g07C_Q5I) By Martin Fowler
 - [SQL vs NoSQL: Battle of the Backends](https://www.youtube.com/watch?v=rRoy6I4gKWU) By Ken Ashcraft and Alfred Fuller
+- [Offline-First Apps with PouchDB](https://www.youtube.com/watch?v=7L7esHWAjSU) By Bradley Holt
 
 ### Methodologies
 
