@@ -166,6 +166,7 @@ really know what they are doing :)
 - [Adopting Continuous Delivery - Jez Humble at Spark 2013: The Electric Cloud Summit](https://www.youtube.com/watch?v=ZLBhVEo1OG4)
 - [Why Everyone Needs DevOps Now - Gene Kim at Spark 2013: The Electric Cloud Summit](https://www.youtube.com/watch?v=oRTiu911qtA)
 - [MountainWest RubyConf 2013 Hell Has Frozen Over: DevOps & Security by James Turnbull](https://www.youtube.com/watch?v=SsQF6zqzHKw)
+- [Put Your Robots to Work: Security Automation at Twitter - Justin Collins, Neil Matatall, Alex Smolen](https://vimeo.com/54250716)
 
 ### License
 
