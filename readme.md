@@ -19,6 +19,7 @@ really know what they are doing :)
 * [Motivation](#motivation)
 * [Diversity](#diversity)
 * [Company Culture](#company-culture)
+* [DevOps](#devops)
 
 ### Programming Languages
 
@@ -159,6 +160,13 @@ really know what they are doing :)
 
 - [unSEXY Conf 2013: Zach Holman, Github](https://www.youtube.com/watch?v=vCSNME4voRU) By Zach Holman
 - [How GitHub Uses GitHub to Build GitHub](https://www.youtube.com/watch?v=qyz3jkOBbQY) By Zach Holman
+
+### DevOps
+
+- [Adopting Continuous Delivery - Jez Humble at Spark 2013: The Electric Cloud Summit](https://www.youtube.com/watch?v=ZLBhVEo1OG4)
+- [Why Everyone Needs DevOps Now - Gene Kim at Spark 2013: The Electric Cloud Summit](https://www.youtube.com/watch?v=oRTiu911qtA)
+- [MountainWest RubyConf 2013 Hell Has Frozen Over: DevOps & Security by James Turnbull](https://www.youtube.com/watch?v=SsQF6zqzHKw)
+- [Put Your Robots to Work: Security Automation at Twitter - Justin Collins, Neil Matatall, Alex Smolen](https://vimeo.com/54250716)
 
 ### License
 
