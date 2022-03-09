@@ -40,6 +40,11 @@ really know what they are doing :)
 - [Functional Javascript: Reverse-engineering the Hype](https://www.youtube.com/watch?v=aeh5Fmh_tmw) By Ben Anderson
 - [Using JavaScript to Teach JavaScript](https://www.youtube.com/watch?v=H4sSldXv_S4) By John Resig
 - [Babel 6.0](https://www.youtube.com/watch?v=Q_ncaTYEizc) By Sebastian McKenzie
+- [What the Heck is the Jamstack?](https://www.youtube.com/watch?v=In8MISM2R6Q) By Raymond Camden & Brian Rinaldi
+- [Why program in TypeScript?](https://youtu.be/1TW9SdHIiXI) By Yakov Fain
+- [Content Management with Hugo: creating and organizing content](https://youtu.be/JqViM9YNvj4) By Atishay Jain
+- [Teach your parents how to build an API server in Node.js](https://youtu.be/FuBbNvRlFJU) By Jonathan Wexler
+- [Node Web Applications and How to Use NPM](https://youtu.be/YOc4J-HCPio) By Jonathan Wexler
 
 #### Go Programming Language
 
@@ -54,6 +59,7 @@ really know what they are doing :)
 
 - [Embedded Elixir in Action](https://www.youtube.com/watch?v=kpzQrFC55q4) By Garth Hitchens
 - [How to Contribute to Elixir and Phoenix](https://www.youtube.com/watch?v=uMrsJahHi3k) By Wendy Smoak
+- [Let’s build a real-time chat application with Elixir and Phoenix](https://www.youtube.com/watch?v=uTDrAQnhgUE) By Geoffrey Lessel
 
 #### Ruby
 
